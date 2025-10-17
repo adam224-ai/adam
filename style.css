@@ -12,7 +12,7 @@ header{
     .circle{
     height: 250px;
     width: 250px;
-    background:url()
+    background:url();
     border-radius: 50%;
     border: 10px solid white;
     display: inline-block;
